@@ -72,6 +72,8 @@ button:hover {
 }
 .swiper-pagination {
   position: static !important;
+  width: 204px !important;
+  margin: 0 auto;
 }
 .swiper-pagination-bullet {
   background-color: #b5b6bc !important;
